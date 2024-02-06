@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import antDesignTwotoneDemo from "@ant-design/icons/docs/examples/ant-design-twotone-demo";
 
 const inter = Inter({ subsets: ["latin"] });
 
